@@ -1,0 +1,4 @@
+peptide_id,decision,reason
+demo_1,include,SYNTHETIC demonstration decision only
+demo_2,pending,Requires author review
+demo_3,exclude,SYNTHETIC demonstration decision only

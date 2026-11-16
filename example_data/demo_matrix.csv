@@ -1,0 +1,6 @@
+peptide_id,sequence,PJI_demo1,PJI_demo2,PJI_demo3,OA_demo1,OA_demo2,OA_demo3
+demo_1,ACDEFGH,11,12,13,1,2,3
+demo_2,KLMNPQR,1,2,3,11,12,13
+demo_3,STVWYAC,5,5,5,5,5,5
+demo_4,DEFGHIK,2,,4,2,,4
+demo_5,LMNPQRS,2,,,,,

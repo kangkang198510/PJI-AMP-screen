@@ -1,0 +1,4 @@
+# Core CSV metrics/consensus scripts use Python standard library only.
+# Figure export dependency; actual validation versions recorded separately.
+matplotlib>=3.8,<4
+Pillow>=10,<14

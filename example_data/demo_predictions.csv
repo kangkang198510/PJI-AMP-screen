@@ -1,0 +1,7 @@
+peptide_id,sequence,model,prediction
+demo_1,ACDEFGH,Demo_A,1
+demo_1,ACDEFGH,Demo_B,1
+demo_2,KLMNPQR,Demo_A,1
+demo_2,KLMNPQR,Demo_B,0
+demo_3,STVWYAC,Demo_A,0
+demo_3,STVWYAC,Demo_B,0

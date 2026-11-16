@@ -1,0 +1,5 @@
+peptide_id,sequence,p_value,FC
+demo_1,ACDEFGH,0.01,6
+demo_2,KLMNPQR,0.02,0.2
+demo_3,STVWYAC,0.8,1
+demo_4,DEFGHIK,0.03,2

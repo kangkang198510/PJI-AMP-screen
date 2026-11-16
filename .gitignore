@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+results/
+data_private/
+*.xlsx
+*.xls
+*.docx
+*.pptx
+*.zip
+*recovery*
+*credentials*
+*.key
+.env
+.Rhistory
+.RData

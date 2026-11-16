@@ -1,0 +1,17 @@
+model,family
+AI4AMP,AI4AMP
+AMPScanner,AMPScanner
+AMPScannerV2,AMPScanner
+AMP_Scanner,AMPScanner
+amPEppy,amPEPpy
+CAMPR4,CAMP_R4
+macrel,macrel
+Macrel,macrel
+CAMP_Bert,CAMP
+CAMP_LSTM,CAMP
+CAMP_Attention,CAMP
+LSTM_BERT+Attention,CAMP
+LSTM+BERT+Attention,CAMP
+amplify,AMPlify
+AMPlify,AMPlify
+dbAMP,dbAMP

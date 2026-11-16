@@ -1,0 +1,13 @@
+peptide_id,model,y_true,y_pred,score
+demo_1,Demo_A,1,1,0.9
+demo_2,Demo_A,1,1,0.8
+demo_3,Demo_A,1,0,0.4
+demo_4,Demo_A,0,1,0.6
+demo_5,Demo_A,0,0,0.3
+demo_6,Demo_A,0,0,0.1
+demo_1,Demo_B,1,1,0.85
+demo_2,Demo_B,1,0,0.45
+demo_3,Demo_B,1,1,0.65
+demo_4,Demo_B,0,1,0.7
+demo_5,Demo_B,0,0,0.2
+demo_6,Demo_B,0,0,0.15

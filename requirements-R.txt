@@ -1,0 +1,7 @@
+# Install in R: install.packages(c("ggplot2", "svglite", "UpSetR"))
+# Pipeline: base R only (stats, utils, tools). Figure dependencies below.
+ggplot2
+svglite
+UpSetR
+# No claim that current installed versions match the original R 4.4.2 analysis.
+# Every run writes sessionInfo() to its output folder.
